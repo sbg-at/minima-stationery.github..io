@@ -1,0 +1,15 @@
+{
+  "name": "MINIMA \u2014 Premium Stationery",
+  "short_name": "MINIMA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3eee6",
+  "theme_color": "#262321",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

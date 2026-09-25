@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minima-stationery.github.io/sitemap.xml
